@@ -1,0 +1,19 @@
+body{
+    background-color: gray
+}
+
+h1{
+    color: yellow;
+    font-size: 30px;
+    font-family: 'Impact';
+    border: 3px #000 dotted;
+    border-radius: 10px;
+    padding: 20px; /*ໃຊ້ໄວ້ກັນໄລຍະຫ່າງຈາກຂອບ*/
+    margin: 20px;
+}
+h1:hover{
+    color: rgb(63, 202, 32);
+    border: 3px rgb(122, 81, 81) solid;
+    background-color: aliceblue;
+    text-align: right;
+} 
